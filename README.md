@@ -63,7 +63,7 @@
 - Cleaned and validated datasets using Excel.
 - Created reports to identify customer spending trends and business insights.
 
-*(Repository coming soon.)*
+> 📌 Repository will be added soon.
 
 ---
 
@@ -72,7 +72,7 @@
 - Developed a Java and DBMS-based inventory management system.
 - Automated inventory transactions and improved record management.
 
-*(Repository coming soon.)*
+> 📌 Repository will be added soon.
 
 ---
 
